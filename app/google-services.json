@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401553313303",
+    "project_id": "online-quiz-30f74",
+    "storage_bucket": "online-quiz-30f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401553313303:android:673e9f6daa69dbc4cb9652",
+        "android_client_info": {
+          "package_name": "com.example.onlinequiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz0bKcP-NTD7wnRnPrUcXS2HO-vRUxgBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
